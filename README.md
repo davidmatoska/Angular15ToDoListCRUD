@@ -2,6 +2,8 @@
 
 Projet créé avec Angular version 15.1.5.
 
+Simple TO DO List CRUD
+
 Créer un nouveau projet Angular:
 ng new leNomQueTuVeuxCestToiQuiDecide
 
