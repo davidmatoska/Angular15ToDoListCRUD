@@ -1,0 +1,18 @@
+{
+  "articles": [
+    {
+      "reference": "blabla",
+      "date": "2023-02-16T23:00:00.000Z",
+      "quantite": 3,
+      "commentaire": "comment",
+      "id": 1
+    },
+    {
+      "reference": "blabla2",
+      "date": "2023-02-16T23:00:00.000Z",
+      "quantite": 4,
+      "commentaire": "comm2",
+      "id": 2
+    }
+  ]
+}
