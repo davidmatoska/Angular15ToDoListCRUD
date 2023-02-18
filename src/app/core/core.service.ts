@@ -13,7 +13,7 @@ export class CoreService {
       duration: 2000,
       verticalPosition:'top',
       horizontalPosition: 'center',
- 
+      panelClass: 'success-snackbar',
     });
   }
 }
