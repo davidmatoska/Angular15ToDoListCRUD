@@ -1,6 +1,6 @@
 # ScanApp
 
-Projet crééé avec Angular version 15.1.5.
+Projet créé avec Angular version 15.1.5.
 
 Créer un nouveau projet Angular:
 ng new leNomQueTuVeuxCestToiQuiDecide
