@@ -4,6 +4,8 @@ Projet créé avec Angular version 15.1.5.
 
 Simple TO DO List CRUD
 
+Le projet s'appelle "ScanApp" car il va servir de base pour un formulaire alimenté par des scans de QRcodes via smartphone. 
+
 Créer un nouveau projet Angular:
 ng new leNomQueTuVeuxCestToiQuiDecide
 
